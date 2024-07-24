@@ -2,7 +2,7 @@
 thisdict = {}
 
 # Collect information for three students
-for num in range(1, 4):
+for num in range(0, 3):
     keys = ["name", "surname", "age", "phone", "LineId", "sex"]
     student_info = {}
     
