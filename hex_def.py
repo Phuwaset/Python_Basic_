@@ -1,5 +1,6 @@
 def cal(a, b):
-    return a + (b / 2) * 10
+    return (a + (b/2))*10
+    
 
 name = input("Enter your name: ")
 a, b = map(float, input("Enter values for a and b separated by a space: ").split())
